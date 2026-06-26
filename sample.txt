@@ -1,0 +1,4 @@
+['Name', 'Age', 'gender']
+['Karthikeyan', '25', 'Male']
+['kavi', '30', 'Male']
+['kamal', '28', 'Male']

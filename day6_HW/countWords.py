@@ -1,0 +1,7 @@
+b=open("sample.txt","w")
+b.write("Hi i am karthikeyan")
+b.close()
+c=open("sample.txt","r")
+content=c.read()
+p=content.split()
+print(len(p))
